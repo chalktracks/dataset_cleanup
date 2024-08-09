@@ -1,0 +1,4 @@
+supervision==0.22.0
+inference==0.15.1
+retina-face==0.0.17
+
